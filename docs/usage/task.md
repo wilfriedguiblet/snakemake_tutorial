@@ -34,7 +34,7 @@ The task can be broken up into A. pre-processing, B. sample handling, C. rule cr
 
 'out_dir' which gives the path to the output dir (must exist)
 
-'data_dir' which gives the path to the data dir found under "/snakemake_tutorial/data/"
+'data_dir' which gives the path to the data dir found under "/snakemake_tutorial/pipeline_todo/data/"
 ```
 - Create the sample dictionaries and project lists from the manifest in the `workflow/Snakefile`
 ```
